@@ -8,7 +8,7 @@
 
 | 平台 | 架构 | 安装包 |
 |------|------|--------|
-| macOS | Apple Silicon (arm64) | [星程免费版-1.0.0-arm64.dmg](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.0/星程免费版-1.0.0-arm64.dmg) |
+| macOS | Apple Silicon (arm64) | [XingCheng-Free-1.0.0-arm64.dmg](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.0/XingCheng-Free-1.0.0-arm64.dmg) |
 
 更多版本见 [Releases](https://github.com/mxc9044/xingcheng-desktop-free/releases)。
 
