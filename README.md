@@ -50,7 +50,7 @@
 ## 核心能力（免费版）
 
 - **智能助理 / 子代理 / Skill / 工作流** — 多步任务与可复用技能
-- **编码助手（Coding Agent）** — Agent + Git/LSP，可选 OpenCode 桥接（类 Claude Code / Codex 工作流）
+- **编码助手（Coding Agent）** — Agent + Git/LSP；产品思路借鉴 [OpenCode](https://github.com/anomalyco/opencode)，并可选桥接 OpenCode（类 Claude Code / Codex 工作流）
 - **本地知识库与神经引擎** — 文档与代码上下文留在本机
 - **Office** — Word / Excel / PPT 生成与解析
 - **本机工具** — Shell、文件、浏览器自动化、MCP
@@ -95,6 +95,12 @@
 
 - 邮箱：`llmxc@foxmail.com`
 - 手机：`13584744264`
+
+---
+
+## 致谢
+
+编码助手能力的产品思路借鉴了开源项目 **[OpenCode](https://github.com/anomalyco/opencode)**（终端向 Coding Agent）。感谢 OpenCode 团队与社区的探索；星程在此基础上做了桌面端整合与国内本地化体验。星程与 OpenCode 无官方隶属关系。
 
 ---
 
