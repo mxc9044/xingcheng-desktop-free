@@ -8,7 +8,7 @@
 
 | 平台 | 架构 | 安装包 |
 |------|------|--------|
-| macOS | Apple Silicon (arm64) | [XingCheng-Free-1.0.0-arm64.dmg](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.0/XingCheng-Free-1.0.0-arm64.dmg) |
+| macOS | Apple Silicon (arm64) | [XingCheng-Free-1.0.1-arm64.dmg](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.1/XingCheng-Free-1.0.1-arm64.dmg) |
 
 更多版本见 [Releases](https://github.com/mxc9044/xingcheng-desktop-free/releases)。
 
@@ -43,6 +43,8 @@
 - 浏览器自动化、文件与 Shell 等本地工具
 - 微信远程控制、飞书机器人（本地配置）
 - 软件集成框架（可自行添加对接）
+
+当前版本不提供远程后端桥连、企业登录入口，以及 iOS Companion。
 
 ## 免费版 vs 商业版
 
