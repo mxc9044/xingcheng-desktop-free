@@ -1,10 +1,33 @@
 # 星程免费版 · 国内本地化 AI 智能助理 / Coding Agent
 
 **WorkBuddy / Codex / Claude Code 的国内本地化平替。**  
-在你自己的电脑上跑 Agent：写代码、操控文件与浏览器、生成 Office 文档、对接微信与飞书——自备模型 API Key（通义、DeepSeek、OpenAI 兼容、Ollama 等）即可，**无需企业后端，数据默认留在本机**。
+自备模型 API Key（通义、DeepSeek、OpenAI 兼容、Ollama 等）即可，**无需企业后端，数据默认留在本机**。
 
-> 本仓库仅提供 **macOS 安装包与说明**（闭源分发，源码不公开）。  
-> 适合检索关键词：`WorkBuddy 平替` · `Codex 平替` · `Claude Code 替代` · `国内 Coding Agent` · `本地 AI 助理` · `OpenAI 兼容桌面客户端`
+---
+
+## ⬇️ 立即下载（最新版 v1.0.1）
+
+### [👉 下载 macOS 安装包（Apple Silicon）](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.1/XingCheng-Free-1.0.1-arm64.dmg)
+
+| | |
+|---|---|
+| **文件** | [`XingCheng-Free-1.0.1-arm64.dmg`](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.1/XingCheng-Free-1.0.1-arm64.dmg) |
+| **平台** | macOS · Apple Silicon (arm64 / M1·M2·M3·M4) |
+| **全部版本** | [Releases 发布页](https://github.com/mxc9044/xingcheng-desktop-free/releases) |
+
+> 打不开？安装包可能未公证 → **系统设置 → 隐私与安全性 → 仍要打开**。
+
+---
+
+## 3 步上手
+
+1. 下载并安装 `.dmg`，把「星程免费版」拖进「应用程序」
+2. 打开应用 → **设置 → 模型配置**
+3. 填写 OpenAI 兼容接口后开始对话：
+   - `Base URL`：如 `https://api.deepseek.com/v1`，或 Ollama `http://127.0.0.1:11434/v1`
+   - `API Key`：你自己的密钥
+
+配置目录：`~/.agent-desktop/`。请自行保管 API Key。
 
 ---
 
@@ -14,36 +37,13 @@
 |------|------------------|
 | Claude Code / Codex 在国内不好用、不稳定 | 直连国内/自建 OpenAI 兼容接口，或本地 Ollama |
 | 想要类似 WorkBuddy 的「能干活」助理 | 本地工具链：Shell / 文件 / 浏览器 / Office / 微信飞书 |
-| 不想把代码与文件交给云端托管 | 默认本地执行，Key 与配置在本机 `~/.agent-desktop/` |
+| 不想把代码与文件交给云端托管 | 默认本地执行，Key 与配置在本机 |
 | 不想绑死单一海外账号体系 | 任意 OpenAI 兼容 Base URL + API Key |
 
 一句话：**类 WorkBuddy 的桌面执行能力 + 类 Claude Code / Codex 的 Agent 编程体验，面向国内环境本地化落地。**
 
----
-
-## 快速下载
-
-| 平台 | 架构 | 安装包 |
-|------|------|--------|
-| macOS | Apple Silicon (arm64) | [XingCheng-Free-1.0.1-arm64.dmg](https://github.com/mxc9044/xingcheng-desktop-free/releases/download/v1.0.1/XingCheng-Free-1.0.1-arm64.dmg) |
-
-全部版本：[Releases](https://github.com/mxc9044/xingcheng-desktop-free/releases)
-
-### macOS 打不开？
-
-安装包可能未做 Apple 公证。打开 **系统设置 → 隐私与安全性**，对拦截应用点 **仍要打开**。
-
----
-
-## 3 步上手
-
-1. 安装 `.dmg`，把「星程免费版」拖进「应用程序」
-2. 打开应用 → **设置 → 模型配置**
-3. 填写 OpenAI 兼容接口后开始对话：
-   - `Base URL`：如 `https://api.deepseek.com/v1`、厂商兼容地址，或 Ollama `http://127.0.0.1:11434/v1`
-   - `API Key`：你自己的密钥
-
-配置目录：`~/.agent-desktop/`（`chat-profiles.json`、`config.json`、`mcp.json`、`mail.json` 等）。请自行保管 API Key。
+> 本仓库仅提供 **macOS 安装包与说明**（闭源分发，源码不公开）。  
+> 检索词：`WorkBuddy 平替` · `Codex 平替` · `Claude Code 替代` · `国内 Coding Agent` · `本地 AI 助理`
 
 ---
 
